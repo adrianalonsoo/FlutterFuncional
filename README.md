@@ -1,2 +1,2 @@
 # FlutterFuncional
- Aplicacion funcional para calucular el imc
+ Aplicacion funcional para calcular el imc
